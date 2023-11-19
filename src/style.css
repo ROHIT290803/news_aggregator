@@ -1,0 +1,59 @@
+/* Styles for the login container */
+.login-container {
+    width: 400px;
+    padding: 50px;
+    margin: 50px auto; /* Center the container and add margin on all sides */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styles for the login header */
+  .login-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for form groups */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for labels */
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  /* Styles for input fields */
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Styles for the "Login" button */
+  .btn-primary {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styles for the registration link */
+  .login-container a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .login-container a:hover {
+    text-decoration: underline;
+  }
